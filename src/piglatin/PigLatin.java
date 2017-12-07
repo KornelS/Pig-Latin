@@ -18,7 +18,7 @@ public class PigLatin {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String word, consonants, vowels, again;
+        String word, consonants, vowels;
         char first, vowelChar, consonantChar;
         int i, a = 0, b = 0;
        
